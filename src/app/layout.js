@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Google Search Clone",
   description:
-    "Opensource Google Search Clone built in Next JS and Tailwind CSS",
+    "An Open Source Google Search Clone built in Next JS and Tailwind CSS",
 };
 
 export default function RootLayout({ children }) {
